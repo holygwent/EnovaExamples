@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataForm xmlns="http://www.enova.pl/schema/form.xsd" DataType="Soneta.Examples.Example5.Extender2.WyswietlenieWpisowWLogach,Soneta.Examples" Priority="0">
+	<Page Name="wyswietlenie wpisow z log" CaptionHtml="wyswietlenie wpisow " DataContext="{DataSource}" Width="100">
+		<Flow Name="FilterPanel">
+			<Field CaptionHtml="Status Powodzenia" Width="18" EditValue="{Status}" Important="true" />
+		</Flow>
+		<Grid  Name="List" IsToolbarVisible="false" EditValue="{ListaWpisow}" Height="*">
+			<Field EditValue="{Id}" CaptionHtml="Id" Width="10" />
+			<Field EditValue="{Powodzenie}" CaptionHtml="Powodzenie" Width="10"  />
+			<Field EditValue="{Wiadomosc}" CaptionHtml="Wiadomosc" Width="40" />
+			<Field EditValue="{Opis}" CaptionHtml="Opis" Width="40" />
+		</Grid>
+	</Page>
+</DataForm>

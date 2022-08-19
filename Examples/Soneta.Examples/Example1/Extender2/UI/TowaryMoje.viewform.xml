@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<DataForm Contexts="License.CRM" xmlns="http://www.enova.pl/schema/form.xsd">
+	<Flow Name="FilterPanel">
+		<Field EditValue="{FiltrParams.Fraza}" CaptionHtml="Szukana Fraza w Nazwie i Kodzie" LabelWidth="35" Width="100" OuterWidth="135"/>
+	</Flow>
+
+	<Grid Name="List" RemoveButton="None" EditButton="None" NewButton="None" IsToolbarVisible="false">
+		<Field EditValue="{Kod}" CaptionHtml="Kod" Width="20" />
+		<Field EditValue="{Nazwa}" CaptionHtml="Nazwa" Width="40" />
+		<Field EditValue="{EAN}" CaptionHtml="EAN" Width="40" />
+	</Grid>
+</DataForm>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataForm xmlns="http://www.enova.pl/schema/form.xsd" DataType="Soneta.Examples.Example5.Extender.ZmianaKoduTowarowParams,Soneta.Examples" Priority="0">
+	
+	<Page Name="ZmianaKoduTowarowParamsForm" CaptionHtml="Zmiana kodu towarów" DataContext="{DataSource}" Width="40">
+
+	<Field  CaptionHtml="Orginalny kod" EditValue="{OrginalnyKod}" IsReadOnly="true"  Width="*"/>
+	<Field CaptionHtml="Nowy kod" EditValue="{NowyKod}"  Width="*"/>
+	</Page>
+</DataForm>

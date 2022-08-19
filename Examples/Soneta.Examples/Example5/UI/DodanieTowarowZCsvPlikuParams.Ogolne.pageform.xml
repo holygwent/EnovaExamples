@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DataForm xmlns="http://www.enova.pl/schema/form.xsd" DataType="Soneta.Examples.Example5.Extender2.DodanieTowarowZCsvPlikuParams,Soneta.Examples" Priority="0">
+	<Page Name="DodanieTowarowZCsvPlikuParams" CaptionHtml="Dodanie towarow z pliku CSV" DataContext="{DataSource}" >
+		<Group CaptionHtml="Plik" LabelWidth="*">
+			
+			<Field CaptionHtml="ścieżka pliku" LabelWidth="10" EditValue="{PlikSciezka}"  Class="FileEdit SaveFileEdit" OuterWidth="*"/> 
+
+			<Row>
+				<Label CaptionHtml="Nazwa Pliku:" />
+				
+				<Label CaptionHtml="{NazwaPliku}" />
+			</Row>
+			<Field CaptionHtml="Czy w pierwszej lini znajduje sie nagłówek dla kolumn" EditValue="{CzyIstniejeNaglowek}" Width="1"  />
+			
+		</Group>
+	</Page>
+</DataForm>

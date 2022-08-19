@@ -1,0 +1,11 @@
+C:\Users\48502\source\repos\Examples\Soneta.Examples\obj\Debug\Soneta.Examples.Strings.resources
+C:\Users\48502\source\repos\Examples\Soneta.Examples\obj\Debug\Soneta.Examples.Strings.en.resources
+C:\Users\48502\source\repos\Examples\Soneta.Examples\obj\Debug\Soneta.Examples.csproj.GenerateResource.cache
+C:\Users\48502\source\repos\Examples\Soneta.Examples\obj\Debug\Soneta.Examples.csproj.CoreCompileInputs.cache
+C:\Users\48502\source\repos\Examples\Soneta.Examples\obj\Debug\en\Soneta.Examples.resources.dll
+C:\Users\48502\source\repos\Examples\Soneta.Examples\obj\Debug\Soneta.Examples.dll
+C:\Users\48502\source\repos\Examples\Soneta.Examples\obj\Debug\Soneta.Examples.pdb
+C:\Program Files (x86)\Common Files\Soneta\Assemblies\Soneta.Examples.dll
+C:\Program Files (x86)\Common Files\Soneta\Assemblies\Soneta.Examples.pdb
+C:\Program Files (x86)\Common Files\Soneta\Assemblies\en\Soneta.Examples.resources.dll
+C:\Users\48502\source\repos\Examples\Soneta.Examples\obj\Debug\Soneta.Examples.csproj.AssemblyReference.cache
