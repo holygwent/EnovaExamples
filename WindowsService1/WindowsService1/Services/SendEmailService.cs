@@ -64,7 +64,7 @@ namespace WindowsService1.Services
                         smtp.Host = "smtp.gmail.com";
                         smtp.EnableSsl = true;
                         smtp.UseDefaultCredentials = false;
-                        smtp.Credentials = new NetworkCredential("dcmieczyslaw@gmail.com", "nuvbesynbdjmdoso");
+                        smtp.Credentials = new NetworkCredential(podaj email do konta, wpisz haslo umozliwiajace apce laczenie sie z gmail);
                         smtp.EnableSsl = true;
 
                         smtp.Send(message);
