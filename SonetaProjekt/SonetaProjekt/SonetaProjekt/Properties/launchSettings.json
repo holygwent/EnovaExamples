@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SonetaProjekt": {
+      "commandName": "Executable",//wazne
+      "commandLineArgs": "/nodbextensions",//wazne
+      "executablePath": "C:\\Program Files (x86)\\Soneta\\enova365 2204.4.9.0\\SonetaExplorer32.exe"//wazne
+    }
+  }
+}

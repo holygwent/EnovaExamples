@@ -1,0 +1,12 @@
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\bin\Debug\net472\SonetaProjekt.dll
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\bin\Debug\net472\SonetaProjekt.pdb
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt\obj\Debug\net472\SonetaProjekt.Properties.Resources.resources
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt\obj\Debug\net472\SonetaProjekt.csproj.GenerateResource.cache
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt\obj\Debug\net472\SonetaProjekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt\obj\Debug\net472\SonetaProjekt.AssemblyInfoInputs.cache
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt\obj\Debug\net472\SonetaProjekt.AssemblyInfo.cs
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt\obj\Debug\net472\SonetaProjekt.csproj.CoreCompileInputs.cache
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt\obj\Debug\net472\SonetaProjekt.dll
+C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt\obj\Debug\net472\SonetaProjekt.pdb
+C:\Program Files (x86)\Common Files\Soneta\Assemblies\net472\SonetaProjekt.dll
+C:\Program Files (x86)\Common Files\Soneta\Assemblies\net472\SonetaProjekt.pdb
