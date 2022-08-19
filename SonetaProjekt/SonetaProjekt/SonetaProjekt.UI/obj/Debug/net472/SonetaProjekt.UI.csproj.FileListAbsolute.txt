@@ -1,9 +1,0 @@
-C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\bin\Debug\net472\SonetaProjekt.UI.dll
-C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\bin\Debug\net472\SonetaProjekt.UI.pdb
-C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt.UI\obj\Debug\net472\SonetaProjekt.UI.csproj.AssemblyReference.cache
-C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt.UI\obj\Debug\net472\SonetaProjekt.UI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt.UI\obj\Debug\net472\SonetaProjekt.UI.AssemblyInfoInputs.cache
-C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt.UI\obj\Debug\net472\SonetaProjekt.UI.AssemblyInfo.cs
-C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt.UI\obj\Debug\net472\SonetaProjekt.UI.csproj.CoreCompileInputs.cache
-C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt.UI\obj\Debug\net472\SonetaProjekt.UI.dll
-C:\Users\48502\source\repos\SonetaProjekt\SonetaProjekt\SonetaProjekt.UI\obj\Debug\net472\SonetaProjekt.UI.pdb
